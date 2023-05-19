@@ -235,7 +235,7 @@ if __name__ == '__main__':
     login_d['userName'] = <username>
     login_d['password'] = <password>
 
-    tenant_network_url = f'https://msk.portal.alkira.com/api/tenantnetworks/122'
+    tenant_network_url = f'https://scj.portal.alkira.com/171'
 
     prov = ak_o.provision(login_d=login_d,
                           tenant_network_url=tenant_network_url)
